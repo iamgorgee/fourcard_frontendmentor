@@ -1,0 +1,186 @@
+body {
+    background-color: hsl(0, 0%, 98%);
+    margin: 0px;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    color: hsl(234, 12%, 34%);
+}
+.one {
+    width: 1440px;
+    height: 800px;
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    left: 48px;
+}
+.one .rel {
+    text-align: center;
+    margin-top: 50px;
+    color: hsl(229, 6%, 66%);
+    font-weight: 200;
+}
+.one p {
+    text-align: center;
+    color: hsl(229, 6%, 66%);
+    font-size: 13px;
+}
+.one h1 {
+    text-align: center;
+    margin: 0px;
+}
+.red, .orange, .cyan, .blue {
+    box-shadow: 0px 2px 20px rgb(218, 218, 218);
+}
+.red {
+    background-color: white;
+    width: 300px;
+    height: 220px;
+    position: absolute;
+    top: 32%;
+    left: 40%;
+    margin: 0;
+    border-radius: 10px;
+}
+.head {
+    background-color: hsl(0, 78%, 62%);
+    width: 296px;
+    height: 4px;
+    border-radius: 10px 10px 0px 0px;
+    position: absolute;
+    left: 2px;
+}
+.red h3 {
+    text-align: left;
+    margin: 30px 0px 0px 30px;
+}
+.red p {
+    font-size: 14px;
+    text-align: left;
+    margin: 15px 0px 0px 30px;
+    color: hsl(229, 6%, 66%);
+    font-size: 10px;
+    line-height: 18px;
+}
+.red img {
+    position: absolute;
+    right: 25px;
+    bottom: 25px;
+}
+
+.orange {
+    background-color: white;
+    width: 300px;
+    height: 220px;
+    position: absolute;
+    top: 63%;
+    left: 40%;
+    margin: 0;
+    border-radius: 10px;
+}
+.headtwo {
+    background-color: hsl(34, 97%, 64%);
+    width: 296px;
+    height: 4px;
+    border-radius: 10px 10px 0px 0px;
+    position: absolute;
+    left: 2px;
+}
+.orange h3 {
+    text-align: left;
+    margin: 30px 0px 0px 30px;
+}
+.orange p {
+    font-size: 14px;
+    text-align: left;
+    margin: 15px 0px 0px 30px;
+    color: hsl(229, 6%, 66%);
+    font-size: 10px;
+    line-height: 18px;
+}
+.orange img {
+    position: absolute;
+    right: 25px;
+    bottom: 25px;
+}
+
+.cyan {
+    background-color: white;
+    width: 300px;
+    height: 220px;
+    position: absolute;
+    top: 45%;
+    left: 17%;
+    margin: 0;
+    border-radius: 10px;
+}
+.headthree {
+    background-color: hsl(180, 62%, 55%);
+    width: 296px;
+    height: 4px;
+    border-radius: 10px 10px 0px 0px;
+    position: absolute;
+    left: 2px;
+}
+.cyan h3 {
+    text-align: left;
+    margin: 30px 0px 0px 30px;
+}
+.cyan p {
+    font-size: 14px;
+    text-align: left;
+    margin: 15px 0px 0px 30px;
+    color: hsl(229, 6%, 66%);
+    font-size: 10px;
+    line-height: 18px;
+}
+.cyan img {
+    position: absolute;
+    right: 25px;
+    bottom: 25px;
+}
+.blue {
+    background-color: white;
+    width: 300px;
+    height: 220px;
+    position: absolute;
+    top: 45%;
+    left: 63%;
+    margin: 0;
+    border-radius: 10px;
+}
+.headfour {
+    background-color: hsl(212, 86%, 64%);
+    width: 296px;
+    height: 4px;
+    border-radius: 10px 10px 0px 0px;
+    position: absolute;
+    left: 2px;
+}
+.blue h3 {
+    text-align: left;
+    margin: 30px 0px 0px 30px;
+}
+.blue p {
+    font-size: 14px;
+    text-align: left;
+    margin: 15px 0px 0px 30px;
+    color: hsl(229, 6%, 66%);
+    font-size: 10px;
+    line-height: 18px;
+}
+.blue img {
+    position: absolute;
+    right: 25px;
+    bottom: 25px;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+    position: absolute;
+    left: 40%;
+    bottom: 0px;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
